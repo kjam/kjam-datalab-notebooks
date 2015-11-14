@@ -1,7 +1,7 @@
 # kjam-datalab-notebooks
-Some Example Jupyter Notebooks using [https://datalab.cloud.google.com/](Google's DataLab).
+Some Example Jupyter Notebooks using [Google's DataLab](https://datalab.cloud.google.com/).
 
-For more information you can check out my [https://2015.devfest-berlin.de/](2015 DevFest Berlin talk) or download the slides [https://github.com/devfest-berlin/slides/](from the DevFest repository).
+For more information you can check out my [DevFest Berlin 2015 talk](https://2015.devfest-berlin.de/) or download the slides [from the DevFest repository](https://github.com/devfest-berlin/slides/).
 
 ## Notes
 
